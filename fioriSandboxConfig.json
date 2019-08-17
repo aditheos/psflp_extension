@@ -1,0 +1,9 @@
+{
+	"applications": {},
+	"bootstrapPlugins": {
+		"psflp_extension": {
+			"component": "com.psflp",
+			"url": "../../../../../"
+		}
+	}
+}
